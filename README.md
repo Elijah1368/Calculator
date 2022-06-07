@@ -5,8 +5,10 @@ Calculator Project built with Java and Spring Framework
 
 Steps to run: 
 
-1.) Open terminal
+1.) Download and extract project
 
-2.) change directory to the project folder
+2.) Open Terminal
 
-3.) type "java -jar out/artifacts/Calculator_jar/Calculator.jar"
+3.) change directory to the project folder
+
+4.) type "java -jar out/artifacts/Calculator_jar/Calculator.jar"
