@@ -1,8 +1,9 @@
 # Calculator Project from TCSS 305
 Calculator Project built with Java and Spring Framework
 
-Steps to run: 
 ![Calculator Preview](https://github.com/Elijah1368/Calculator/blob/940009a83dca8a557f3847bb5b813ce8ebe63c81/Assets/Calculator.png)
+
+Steps to run: 
 
 1.) Open terminal
 
